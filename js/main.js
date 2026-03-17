@@ -1,9 +1,23 @@
 // Lista de vídeos do YouTube (IDs extraídos das URLs)
 const channels = [
-    { id: '7a9ve2MEOWc', name: 'Raciocínio Lógico para Concursos - Parte 1' },
-    { id: '2I6R8SS8-jk', name: 'Raciocínio Lógico para Concursos - Parte 2' },
-    { id: '5mzr9DFnp2k', name: 'Raciocínio Lógico para Concursos - Parte 3' },
-    { id: '4qP1mCYxkoE', name: 'Raciocínio Lógico para Concursos - Parte 4' }
+    { id: '5ytuYyjOTJk', name: 'COMO APRENDER RACIOCÍNIO LÓGICO MATEMÁTICO PARA CONCURSO PÚBLICO?' },
+    { id: 'KKnkTDaCL8c', name: 'LÓGICA PROPOSICIONAL: Revisão de Língua Portuguesa e Proposição' },
+    { id: '_hpyoaltnRg', name: 'QUESTÕES DE CONCURSO PÚBLICO SOBRE LÓGICA PROPOSICIONAL' },
+    { id: 'bPR_cQaZB7Y', name: 'LÓGICA PROPOSICIONAL: Proposições Simples e Negação de Proposição' },
+    { id: '1yRLsc2Co6I', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Negação de Proposições Simples' },
+    { id: 'uDNNBiST3ls', name: 'CONECTIVOS LÓGICOS "E", "OU" e "OU, OU" e TABELA VERDADE' },
+    { id: 'M_H5dv4nrCE', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Conectivos Lógicos' },
+    { id: 'u6C_RHwMJI8', name: 'CONECTIVOS LÓGICOS "SE ENTÃO" e "SE E SOMENTE SE" e TABELA VERDADE' },
+    { id: 'OQaXKpeYY9Y', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Conectivos Lógicos' },
+    { id: 'TVjzslm2QO4', name: 'EQUIVALÊNCIAS LÓGICAS E NEGAÇÃO DE PROPOSIÇÃO COMPOSTA' },
+    { id: '0GCXuAp-Szc', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Equivalências Lógicas e Negação' },
+    { id: 'ACox-jPq0lw', name: 'TABELA VERDADE, NÚMERO DE LINHAS, TAUTOLOGIA, CONTRADIÇÃO E CONTINGÊNCIA' },
+    { id: '52ouFzdfA_g', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Tabela Verdade' },
+    { id: 'zr7vjCc6o3Y', name: 'QUANTIFICADORES LÓGICOS: Todo, Nenhum, Existe, Algum, etc' },
+    { id: 'sO9a5to7LBU', name: 'QUESTÕES DE CONCURSO PÚBLICO sobre Quantificadores Lógicos' },
+    { id: 'jhu67txbB_Q', name: 'ASSOCIAÇÃO LÓGICA e Tabelas de SIM e NÃO' },
+    { id: 'YLJ3x7BUsd0', name: 'QUESTÃO DE CONCURSO AUTORAL sobre Associação Lógica e Tabela S ou N' },
+    { id: 'WLpXg6eGPvI', name: 'RACIOCÍNIO LÓGICO: Verdades e Mentiras com dicas INCRÍVEIS' }
 ];
 
 // Estado atual
